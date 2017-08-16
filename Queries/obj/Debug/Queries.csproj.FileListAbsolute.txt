@@ -1,0 +1,12 @@
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\bin\Debug\Queries.exe.config
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\bin\Debug\Queries.exe
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\bin\Debug\Queries.pdb
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\bin\Debug\EntityFramework.dll
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\bin\Debug\EntityFramework.xml
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\obj\Debug\Queries.exe
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\obj\Debug\Queries.pdb
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\obj\Debug\Queries.Migrations.InitialModel.resources
+C:\Users\seren\Documents\Visual Studio 2015\Projects\ENTITYFRAMEWORK\Queries\Queries\obj\Debug\Queries.csproj.GenerateResource.Cache
